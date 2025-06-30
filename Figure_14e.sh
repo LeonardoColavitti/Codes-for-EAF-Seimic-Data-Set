@@ -2,7 +2,7 @@
 # section_DD-time.zsh
 # Leonardo Colavitti - 01 March 2025
 
-# This script generates FIGURE 14C of the DataPaper published in Earth Science System Data:
+# This script generates FIGURE 14E of the DataPaper published in Earth Science System Data:
 # A high-quality data set for seismological studies in the East Anatolian Fault Zone, Türkiye
 # by L. Colavitti, D. Bindi, G. Tarchini, D. Scafidi, M. Picozzi and D. Spallarossa
 

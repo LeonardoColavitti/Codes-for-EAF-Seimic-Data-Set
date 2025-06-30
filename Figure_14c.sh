@@ -9,8 +9,8 @@
 # SUMMARY:
 #   This script generates a vertical seismic cross-section (1:1 aspect ratio)
 #   along a user-defined profile between two geographic coordinates:
-#     - Point A:   35.1 38.2
-#     - Point A':  36.5 35.9
+#     - Point B:   35.1 38.2
+#     - Point B':  36.5 35.9
 #
 #   Earthquake events are projected onto the section within ±$spes km and
 #   plotted with color-coded symbols representing event times (in days),
@@ -21,7 +21,7 @@
 #   - Maximum depth (`vprof`) customizable
 #   - Events colored according to a custom time color palette
 #   - Scaled to preserve a 1:1 ratio between depth and horizontal distance
-#   - Automatically adds section labels A and A' at the ends
+#   - Automatically adds section labels B and B' at the ends
 #
 # Requirements :
 #   - GMT installed (version ≥ 6 recommended)
@@ -30,7 +30,7 @@
 #   - Optional topography file defined but not used: ETOPO1_Bed_g_int.xyz
 #
 # Output :
-#   - PostScript file: section_AA-time.ps
+#   - PostScript file: section_BB-time.ps
 #
 # Usage :
 #   $ ./section_BB-time.zsh

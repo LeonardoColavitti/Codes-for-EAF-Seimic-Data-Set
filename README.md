@@ -4,8 +4,11 @@ These are the main codes to generate the figures of the paper "A high-quality da
 This Package contains:
 
 - Figure_01.sh            - Map of the data set for the East Anatolian Fault Zone (EAFZ)
-- Figure_03.m
-- Figure_05-08-10.11.m
+- Figure_03.m             - Cumulative distribution function (CDF) per event and per station
+- Figure_05-08-10.11.m    - Empirical Cumulative Distribution and histograms for P and S phases
+                          - Depth comparison between our work and AFAD catalog
+                          - Distrbution of the local magnitude relative standard deviation
+                          - Magnitude comparison between our work and AFAD catalog
 - Figure_06.m
 - Figure_07.m
 - Figure_09.m

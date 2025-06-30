@@ -9,7 +9,7 @@
 % 4. nrecs_event.png
 % 5. nrecs_station.png
 %
-% This script generates FIGURE 6 (and some Supp Figures) of the DataPaper published in Earth Science System Data:
+% This script generates FIGURE 3 (and some Supp Figures) of the DataPaper published in Earth Science System Data:
 % A high-quality data set for seismological studies in the East Anatolian Fault Zone, Türkiye
 % by L. Colavitti, D. Bindi, G. Tarchini, D. Scafidi, M. Picozzi and D. Spallarossa
 %

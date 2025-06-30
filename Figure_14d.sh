@@ -21,7 +21,7 @@
 #   - Maximum depth (`vprof`) customizable
 #   - Events colored according to a custom time color palette
 #   - Scaled to preserve a 1:1 ratio between depth and horizontal distance
-#   - Automatically adds section labels A and A' at the ends
+#   - Automatically adds section labels C and C' at the ends
 #
 # Requirements :
 #   - GMT installed (version ≥ 6 recommended)
